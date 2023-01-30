@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\bin\Debug\net6.0\set3ex1.exe
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\bin\Debug\net6.0\set3ex1.deps.json
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\bin\Debug\net6.0\set3ex1.runtimeconfig.json
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\bin\Debug\net6.0\set3ex1.dll
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\bin\Debug\net6.0\set3ex1.pdb
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.AssemblyInfo.cs
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.dll
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\refint\set3ex1.dll
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.pdb
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\set3ex1.genruntimeconfig.cache
+D:\coding\repos\practice\Set3\set3ex1\set3ex1\obj\Debug\net6.0\ref\set3ex1.dll
